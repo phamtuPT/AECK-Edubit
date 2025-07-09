@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://aeck.edubit.vn/</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://aeck.edubit.vn/images/aeck_sqr.png</image:loc>
+            <image:title>AECK Logo</image:title>
+            <image:caption>Logo của AECK - Khóa học TSA chất lượng cao</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://file.edubit.vn/storage/7864c138598c6b23ac6adea3f9f06c2026519aaf/hust-review.png</image:loc>
+            <image:title>HUST Review</image:title>
+            <image:caption>Hình ảnh minh họa khóa học AECK</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://file.edubit.vn/storage/7864c138598c6b23ac6adea3f9f06c2026519aaf/1.png</image:loc>
+            <image:title>Chiến thuật luyện thi</image:title>
+            <image:caption>Chiến thuật luyện thi hợp lý của AECK</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://file.edubit.vn/storage/7864c138598c6b23ac6adea3f9f06c2026519aaf/hust-1.png</image:loc>
+            <image:title>Chất lượng khóa học</image:title>
+            <image:caption>Khóa học chất lượng cao tại AECK</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://file.edubit.vn/storage/7864c138598c6b23ac6adea3f9f06c2026519aaf/3-1.png</image:loc>
+            <image:title>Thanh toán một lần</image:title>
+            <image:caption>Thanh toán 1 lần, học tất cả các khóa học</image:caption>
+        </image:image>
+    </url>
+</urlset>

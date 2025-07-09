@@ -1,0 +1,38 @@
+{
+    "name": "AECK - Khóa học TSA và Đào tạo Trực tuyến",
+    "short_name": "AECK",
+    "description": "AECK cung cấp khóa học TSA chất lượng cao, chiến thuật luyện thi hợp lý với cơ chế tính điểm IRT. Thanh toán 1 lần, học tất cả khóa học.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#667eea",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "lang": "vi",
+    "dir": "ltr",
+    "categories": ["education", "learning", "training"],
+    "icons": [
+        {
+            "src": "images/aeck_sqr.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/aeck_sqr.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "https://file.edubit.vn/storage/7864c138598c6b23ac6adea3f9f06c2026519aaf/hust-review.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide"
+        }
+    ],
+    "related_applications": [],
+    "prefer_related_applications": false
+}
